@@ -1,2 +1,2 @@
 # dingtalkalerter
-A ding talk robot alerter
+A dingtalk robot alerter
